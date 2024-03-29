@@ -1,0 +1,110 @@
+#banner
+{
+    height: 580px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    column-gap: 100px;
+    margin-bottom: 30px;
+}
+
+.simple
+{
+    font-weight: 600;
+    font-size: 34px;
+    width: 250px;
+    margin-bottom: 8px;
+    line-height: 113%;
+}
+
+.simple-text
+{
+    font-size: 13.62px;
+    width: 250px;
+}
+
+.right
+{
+    display: flex;
+    flex-direction: row;
+    column-gap: 16px;
+}
+
+.r-left
+{
+    display: flex;
+    flex-direction: column;
+    width: 170px;
+    height: 462px;
+    justify-content: space-between;
+}
+
+.pic-top
+{
+    width: 100%;
+    height: 223px;
+}
+
+.pic-bottom
+{
+    width: 100%;
+    height: 223px;
+}
+
+.r-right
+{
+    width: 280px;
+    height: 462px;
+    align-content: center;
+}
+
+.center-image
+{
+    width: 280px;
+    height: 408px;
+}
+
+#shop-button
+{
+    width: 139.57px;
+    align-items: center;
+    text-align: center;
+}
+
+
+#shop-cards
+{
+    display: flex;
+    flex-direction: row;
+    column-gap: 32px;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 100px;
+}
+
+.shop-left
+{
+    display: flex;
+    flex-direction: column;
+    row-gap: 32px;
+}
+
+.shop-right
+{
+    display: flex;
+    flex-direction: column;
+    row-gap: 32px;
+    padding-top: 100px;
+}
+
+.names
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 30px;
+}
